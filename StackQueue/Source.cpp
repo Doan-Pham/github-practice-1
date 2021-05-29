@@ -3,6 +3,5 @@ using namespace std;
 int main()
 {
 	cout << "Hello World";
-	cout << "Fuck you";
-	cout << "Nani ?";
+	cout << "Fuck you you motherfucker";
 }
